@@ -28,3 +28,8 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+### P.S Чтобы создать requirements
+```
+pip freeze => requirements.txt 
+```
